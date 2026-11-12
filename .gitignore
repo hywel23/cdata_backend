@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.json.key
+service-account*.json
+cdata-service-account.json

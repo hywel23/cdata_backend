@@ -1,0 +1,16 @@
+{
+  "decision_id": "81087126-0941-4579-bf64-e785bfa9e9c4",
+  "timestamp_utc": "2026-11-11T03:07:02.011888+00:00",
+  "data_date": "2026-10-08",
+  "status": "HOLD_CURRENT_PRICE",
+  "reason": "Estimated profitability improvement is below the required threshold.",
+  "current_price_rm": 67.19,
+  "candidate_price_rm": 67.25,
+  "active_price_rm": 67.19,
+  "price_change_pct": 0.0893,
+  "estimated_current_profit_rm": 3290.61,
+  "profit_improvement_pct": 0.0193,
+  "candidate_margin_pct": 35.04,
+  "requires_approval": false,
+  "executed": false
+}
