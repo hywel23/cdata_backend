@@ -12,7 +12,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 BASE_DIR = Path(__file__).resolve().parent
 
-DATA_FILE = BASE_DIR / "processed_fyP_dataset.csv"
+DATA_FILE = BASE_DIR / "processed_fyp_dataset.csv"
 
 if not DATA_FILE.exists():
     DATA_FILE = BASE_DIR / "processed_fyp_dataset(1).csv"
